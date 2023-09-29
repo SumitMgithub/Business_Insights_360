@@ -17,7 +17,7 @@ AtliQ Hardware is growing rapidly in recent years, and they have decided to impl
 *What are all the questions should be asked before staring the project
 *Creating calculated columns
 *creating measure using DAX language
-Data modeling
+*Data modeling
 Using Bookmarks to switch between two visuals
 Page navigation with buttons
 Using divide function to prevent zero division errors
