@@ -13,12 +13,12 @@ Uncover insights into Product Performance, scrutinize Market, Regional, and Cust
 Investigate the accuracy of forecasts, Net Errors, and Absolute Errors, revealing crucial metrics related to Customers based on Forecast Accuracy (FA), Net Error (NE), and Absolute Error (ABS Error). Keep track of trends in Accuracy and Net Error, and explore key metrics related to Products.
 
 The route 🚀:
-➡Scenario Planning
-➡Data Compilation
-➡Fine-tuning
-➡Designing Data Architecture
-➡Sketching Dashboards
-➡Incorporating Stakeholder Feedback
+➡Scenario Planning  
+➡Data Compilation  
+➡Fine-tuning  
+➡Designing Data Architecture  
+➡Sketching Dashboards  
+➡Incorporating Stakeholder Feedback  
 
 This journey has equipped me with a treasure trove of skills.
 💡 SQL
