@@ -1,4 +1,4 @@
-<h1> **BUSINESS INSIGHTS : 360** </h1>
+<h1> BUSINESS INSIGHTS : 360 </h1>
 
 As an enthusiastic Data Analyst, I have crafted comprehensive reports using **Power BI** that provide invaluable insights for various departments, enabling them to make well-informed, data-driven decisions. These reports encompass the domains of Finance, Sales, Supply Chain, and Marketing, and offer an Executive view, meticulously tracking Key Performance Indicators (KPIs) across all organizational sectors.
 
