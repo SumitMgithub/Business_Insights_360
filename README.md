@@ -14,6 +14,9 @@ Uncover insights into Product Performance, scrutinize Market, Regional, and Cust
 🚚**Supply Chain View:**
 Investigate the accuracy of forecasts, Net Errors, and Absolute Errors, revealing crucial metrics related to Customers based on Forecast Accuracy (FA), Net Error (NE), and Absolute Error (ABS Error). Keep track of trends in Accuracy and Net Error, and explore key metrics related to Products.
 
+🤵**Executive view:**
+Integrated view of key insights for executives. Gain strategic insights into market share trends, identify the top 5 customers and products, and analyze revenue trends.
+
 The route 🚀:  
 ➡Scenario Planning  
 ➡Data Compilation  
@@ -29,3 +32,8 @@ This journey has equipped me with a treasure trove of skills.
 💡 DAX language  
 💡 DAX Studio  
 💡 Project charter files
+
+This project not only showcases my Power BI proficiency but also my deep-rooted understanding of business dynamics.
+
+YOUR FEEDBACK MATTERS  
+**INVITING YOU TO EXPLORE MY DASHBOARD AND SHARE YOUR THOUGHTS**
